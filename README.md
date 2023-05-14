@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 # 💫 About Me:
-- 🌏 I'm from ...India, the land of cultures.<br>- 🔭 I’m currently working on ...Data science particularly NLP interests me right now.<br>- 🌱 I’m currently learning ...and updating everyday on Data Science, Machine Learning, Deep Learning and NLP..<br>- 👯 I’m looking to collaborate on ...anything related to 'Data'<br>- 💬 Ask me about ...anything, I'll either know it or learn it<br>- 📫 How to reach me: ... https://www.linkedin.com/in/tejasposupo/<br>- 💞️ You can also visit my portfolio ... https://tejasposupo.github.io/Tejas/<br>- 😄 Pronouns: ...he/him
+- 🌏 I'm from ...India, the land of cultures.<br>
+- 🔭 I’m currently working on ...Data science particularly NLP interests me right now.<br>
+- 🌱 I’m currently learning ...and updating everyday on Data Science, Machine Learning, Deep Learning and NLP..<br>
+- 👯 I’m looking to collaborate on ...anything related to 'Data'<br>
+- 💬 Ask me about ...anything, I'll either know it or learn it<br>
+- 📫 How to reach me: ... https://www.linkedin.com/in/tejasposupo/<br>
+- 💞️ You can also visit my portfolio ... https://tejasposupo.github.io/Tejas/<br>- 😄 Pronouns: ...he/him
 
 
 ## 🌐 Socials:
