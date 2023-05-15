@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasposupo&label=Profile%20views&color=0e75b6&style=flat" alt="tejasposupo" /> </p>
 
-- 🔭 I’m currently Pursuing **MSc (Big Data Analytics)**
+- 🔭 I’m currently Pursuing **MSc(Big Data Analytics) in Central University Of Rajasthan**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning, NLP(Natural Language Processing), Power BI**
 
