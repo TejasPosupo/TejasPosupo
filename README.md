@@ -1,7 +1,7 @@
 ![logo]()
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 <h3 align="center">Iam a Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/TejasPosupo/TejasPosupo/blob/main/5387dc7e035b3efe9d94516044de66a4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasposupo&label=Profile%20views&color=0e75b6&style=flat" alt="tejasposupo" /> </p>
 
@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on **anything related to Data Science**
 
-- 🤝 I’m looking for help to **Enchance my Skills**
+- 🤝 I’m looking for help to **Enchance my skills**
 
-- 👨‍💻 All of my projects are available at [https://tejasposupo.github.io/Tejas/](https://tejasposupo.github.io/Tejas/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://tejasposupo.github.io/Tejas/)
 
 - 💬 Ask me about **anything, I'll either know it or learn it**
 
 - 📫 How to reach me **tejasposupo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M7ZPIkE0vdnZGm1hZ2G9X6Z-yoReTeF_/view](https://drive.google.com/file/d/1M7ZPIkE0vdnZGm1hZ2G9X6Z-yoReTeF_/view)
+- 📄 Know more about me [My Resume](https://drive.google.com/file/d/1M7ZPIkE0vdnZGm1hZ2G9X6Z-yoReTeF_/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
