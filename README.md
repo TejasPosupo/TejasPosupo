@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/TejasPosupo/TejasPosupo/blob/main/Hi%20(3).gif)
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 <h3 align="center">Iam a Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/TejasPosupo/TejasPosupo/blob/main/5387dc7e035b3efe9d94516044de66a4.gif">
