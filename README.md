@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm TejasPosupo</h1>
+![logo]()
+<h1 align="center">Hi 👋, I'm Tejas</h1>
 <h3 align="center">Iam a Data Scientist from India</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasposupo&label=Profile%20views&color=0e75b6&style=flat" alt="tejasposupo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasposupo" alt="tejasposupo" /></a> </p>
 
 - 🔭 I’m currently Pursuing **MSc (Big Data Analytics)**
 
