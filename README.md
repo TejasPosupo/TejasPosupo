@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tejasposupo@gmail.com**
 
-- 📄 Know more about me [My Resume](https://drive.google.com/file/d/1M7ZPIkE0vdnZGm1hZ2G9X6Z-yoReTeF_/view)
+- 📄 Know more about me [View Resume](https://drive.google.com/file/d/1M7ZPIkE0vdnZGm1hZ2G9X6Z-yoReTeF_/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
