@@ -33,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasposupo&show_icons=true&locale=en&layout=compact" alt="tejasposupo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasposupo&show_icons=true&locale=en" alt="tejasposupo" /></p>
+<p>&nbsp;<img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Tejasposupo?cardType=octocat&theme=github&preferLogin=true" alt="tejasposupo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasposupo&" alt="tejasposupo" /></p>
