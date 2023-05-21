@@ -20,6 +20,9 @@
 
 - 📄 Know more about me [View Resume](https://drive.google.com/file/d/1M7ZPIkE0vdnZGm1hZ2G9X6Z-yoReTeF_/view)
 
+<h3 align="left">My Career Objective:</h3>
+<p>I am a Data Science student passionate about uncovering insights from complex datasets. I am currently studying Data Science to acquire the skills and knowledge necessary to analyze and interpret data effectively. As a Data Science student, I am excited about applying statistical and computational methods to solve real-world problems. I enjoy working with various programming languages and tools commonly used in Data Science, such as Python, R, and SQL. One of my goals as a Data Science student is to master techniques like machine learning, data visualization, and predictive modeling. I am eager to explore different domains and industries to see how Data Science can be leveraged for better decision-making and problem-solving. As a Data Science student, I value continuous learning and staying up-to-date with the latest advancements and techniques in the field. I am actively seeking opportunities to gain practical experience through internships or projects to further enhance my skills as a Data Scientist. Collaboration and teamwork are important to me as a Data Science student, as I believe diverse perspectives lead to more robust and innovative solutions. I am excited about the potential of Data Science to make a positive impact in various fields, from healthcare and finance to social sciences and beyond.</P>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tejasposupo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejasposupo" height="30" width="40" /></a>
