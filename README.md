@@ -33,7 +33,7 @@
 
 <h3 align="left">My Work Experience:</h3>
 
-| <a href="https://github.com/TejasPosupo/PHN_Technology_Data_Science_Internship"><img src="https://github.com/TejasPosupo/images/blob/main/2022-11-16.jpg" alt="4K Mountains Wallpaper"></a> <br> Intenship - [Data Science](https://github.com/TejasPosupo/PHN_Technology_Data_Science_Internship) | <a href="https://github.com/TejasPosupo/CodersCave_Data_Science_Internship"><img src="https://github.com/TejasPosupo/images/blob/main/WhatsApp%20Image%202023-06-02%20at%2000.06.09.jpg" alt="4K Mountains Wallpaper"></a> <br> Internship - [Data Science](https://github.com/TejasPosupo/CodersCave_Data_Science_Internship) |
+| <a href="https://github.com/TejasPosupo/PHN_Technology_Data_Science_Internship"><img src="https://github.com/TejasPosupo/images/blob/main/2022-11-16.jpg" alt="4K Mountains Wallpaper"></a> <br> Intenship - [Data Science](https://github.com/TejasPosupo/PHN_Technology_Data_Science_Internship) | <a href="https://github.com/TejasPosupo/CodersCave_Data_Science_Internship"><img src="https://github.com/TejasPosupo/images/blob/main/coders.jpg" alt="4K Mountains Wallpaper"></a> <br> Internship - [Data Science](https://github.com/TejasPosupo/CodersCave_Data_Science_Internship) |
 | --- | --- |
 
 <h3 align="left">Languages and Tools:</h3>
