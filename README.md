@@ -1,6 +1,6 @@
 ![logo](https://github.com/TejasPosupo/TejasPosupo/blob/main/intro.gif)
 
-<img align="right" alt="coding" width="400" src="https://github.com/TejasPosupo/TejasPosupo/blob/main/5387dc7e035b3efe9d94516044de66a4.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/TejasPosupo/TejasPosupo/blob/main/trail.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasposupo&label=Profile%20views&color=0e75b6&style=flat" alt="tejasposupo" /> </p>
 
