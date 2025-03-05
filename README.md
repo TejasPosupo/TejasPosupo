@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as **Data Analyst** and Aspiring Data Scientist
 
-- 🌱 My Skills ** Python Programming, SQL, Data Visualization, Statistical Analysis, Machine Learning, Feature Engineering, Predictive Modeling, Data Preprocessing, Data pipeline creation,  Business Intelligence**
+- 🌱 My Skills **Python Programming, SQL, Data Visualization, Statistical Analysis, Machine Learning, Feature Engineering, Predictive Modeling, Data Preprocessing, Data pipeline creation,  Business Intelligence**
 
 - 👯 I’m looking to collaborate on **anything related to Data Science**
 
