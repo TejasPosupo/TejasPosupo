@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://tejasposupo.github.io/Tejas/)
 
-- 💬 Ask me about **anything, I'll either know it or learn it**
+- 💬 Ask me about **anything, I'll either know it or learn it**.
 
 - 📫 How to reach me **tejasposupo@gmail.com**
 
