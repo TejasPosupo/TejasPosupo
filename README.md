@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tejasposupo@gmail.com**
 
-- 📄 Know more about me [View Resume](https://drive.google.com/file/d/1FzRoy7Fppw6Nf0snj9Pgm6KcXdKwQCJo/view?usp=sharing)
+- 📄 Know more about me [View Resume](https://drive.google.com/file/d/1utrFI97XHo2dB-uES-T5x1Gpe0JNks2d/view?usp=sharing)
 
 <h3 align="left">My Career Objective:</h3>
 <p>Analytical professional with 1.5 years of experience transforming complex datasets into actionable insights using Python, advanced SQL, and data visualization tools. Skilled in pattern recognition, problem-solving, and translating business challenges into data-driven solutions. Experienced in communicating findings effectively to stakeholders and collaborating with cross-functional teams. Currently expanding expertise in machine learning and predictive modeling to transition into a Data Scientist role.</P>
